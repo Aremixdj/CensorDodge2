@@ -3,6 +3,8 @@
 </p>
 
 # Censor Dodge Web Proxy
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2FCensorDodge2.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2FCensorDodge2?ref=badge_shield)
+
 
 **Current Stable Release:** V1.83
 
@@ -48,3 +50,7 @@ By Ryan Maber - [View Portfolio](https://ryanmaber.com/)
 
 - [Mossroy](https://github.com/mossroy)
 - [abcnet-lu](https://github.com/abcnet-lu)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2FCensorDodge2.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2FCensorDodge2?ref=badge_large)
